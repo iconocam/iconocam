@@ -4,6 +4,11 @@ I'm not too sure what my goal is yet regarding this assignment...
 
 SO i've just created anything I think about!  
 ### Everything is going according to plan.. 
+
+1. Create more stat interfaces
+2. Add more pics
+3. Add a gif
+4. Detail Black ops
 <!--
 **iconocam/iconocam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
